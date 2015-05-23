@@ -2,5 +2,5 @@ package learngh
 
 class CtrlFreakController {
 
-    def index() { "render incapacitated" }
+    def index() { render "incapacitated" }
 }
